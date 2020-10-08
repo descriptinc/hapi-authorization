@@ -50,7 +50,7 @@
     "mocha": "^2.3.4"
   },
   "peerDependencies": {
-    "@hapi/hapi": ">= 17"
-	"joi": ">= 17"
+    "@hapi/hapi": ">= 17",
+    "joi": ">= 17"
   }
 }
