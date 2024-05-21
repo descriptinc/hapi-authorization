@@ -1,5 +1,5 @@
 {
-  "name": "hapi-authorization",
+  "name": "@descript/hapi-authorization",
   "version": "4.0.0-alpha.1",
   "description": "ACL support for hapijs apps",
   "main": "index.js",
